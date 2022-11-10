@@ -1,0 +1,33 @@
+body{
+    background-image: linear-gradient(45deg,rgb(7, 138, 246),lightsteelblue);
+    font-family: nunito,sans-serif;
+    color: #1c1c1c;
+}
+h1,h2,h3{
+    font-family: asap,sans-serif;
+    color: #f0f8ff;
+}
+label.estilo-formulario {
+    display: flex;
+    width: 98%;
+}
+div{
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0);
+    color: #dcdcdc;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 35px;
+    /*align-items: stretch;*/
+    border-radius: 15px;
+}
+.botao{
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: #31319c;
+    font-size: .9em;
+    border-radius: 3px;
+}
