@@ -1,2 +1,3 @@
 # Meu-PHP
 Arquivos PHP.
+ESTE ARQUIVO É UMA TABUADA SIMPLES.
